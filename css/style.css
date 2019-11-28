@@ -420,3 +420,20 @@ header {
     font-size: 15px;
   }
 } */
+
+
+/* ========= footer styles ========== */
+.div1 {
+  background: #1E1E24;
+  width: 30%;
+  height: auto;
+  margin: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+
+}
+.footme {
+  display: flex;
+  color: white;
+}
